@@ -19,3 +19,4 @@
 /web/bundles/
 /web/build/fonts/glyphicons-*
 /web/build/images/glyphicons-*
+/.idea/*
